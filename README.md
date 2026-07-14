@@ -99,17 +99,17 @@ OralDiseaseApp/
 
 # 🖥 Application Preview
 
-## Home Page
+## 🖥 Home Page
 
-(Add Screenshot Here)
+![Home Page](assets/Home.png)
 
 ## Prediction Example
 
-(Add Screenshot Here)
+![Prediction](assets/prediction.png)
 
 ## Probability Chart
 
-(Add Screenshot Here)
+![Chart](assets/Charts.png)
 
 ---
 
