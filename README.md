@@ -107,6 +107,8 @@ OralDiseaseApp/
 
 ![Prediction](assets/prediction.png)
 
+![Prediction](assets/prediction2.png)
+
 ## Probability Chart
 
 ![Chart](assets/Charts.png)
