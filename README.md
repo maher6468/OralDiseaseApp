@@ -8,7 +8,7 @@ The project compares multiple CNN architectures including a custom CNN, ResNet50
 
 # 🚀 Live Demo
 
-🔗 https://YOUR-APP.streamlit.app
+🔗 https://oraldiseaseapp-ho9h4eeqhxq5npaj3eawk6.streamlit.app/
 
 ---
 
